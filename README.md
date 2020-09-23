@@ -15,12 +15,12 @@ We have a unit test that validates the behavior of the system. Let's fix the pro
 * Run the test and see it fail
 * Read the code
 
-##Phase 2
+## Phase 2
 
 * Fix the code to make the test pass
 * Open a pull request
 
-##Phase 3
+## Phase 3
 
 * Review the solutions
 * Introduce the notion of dependency injection
